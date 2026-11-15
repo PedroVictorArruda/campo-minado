@@ -6,7 +6,7 @@
 **Turma:** [T0X]
 
 ## Integrantes do Grupo
-* Gildo [Sobrenome] (Matrícula)
+* Gildo Cordeiro Duarte (20190146782)
 * Nome Completo (Matrícula)
 * Nome Completo (Matrícula)
 
